@@ -23,13 +23,7 @@ Librerías: pip install ursina pygame numpy
 🎮 Cómo Iniciar
 Abre la carpeta AIM_Trainer_V2_Gold.
 
-Ejecuta el archivo JUGAR.bat.
-
-En el menú, selecciona MAPAS y elige tu nivel.
-
-Tip: Los mapas de BloodStrike están numerados del 1 al 3 según la complejidad del movimiento.
-
-Presiona ENTER para empezar la acción.
+Lease "IMPORTANTE".
 
 📊 Sistema de Ranking
 La BETA 2.0 incluye un sistema de persistencia de datos. Tus 3 mejores puntuaciones de precisión se guardarán automáticamente en el archivo ranking_aim.json.
